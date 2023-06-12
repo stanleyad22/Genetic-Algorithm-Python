@@ -154,6 +154,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#     for j in range (i+1, len(abc)):
-#         print(abc[i], " dengan ", abc[j])
