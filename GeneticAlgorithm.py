@@ -155,34 +155,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# print(GA.populasi)
-# print(GA.bit_x)
-# print(GA.bit_y)
-#
-# for i in range(GA.ukuran_populasi):
-#     print(int(GA.populasi[i][GA.bit_x:(len(GA.populasi)-1)], 2))
-
-# abc = [4,5,6]
-# fgh = [7,8,9]
-# abc += fgh
-# print(abc)
-#
-# simulasi mutasi
-# bde = ''
-# bde = '10010100001'
-# bdehasil = []
-# a = random.randint(0, len(bde)-1)
-# print(a)
-# bdehasil.append(bde[0:a] + ('1' if bde[a] == '0' else '0') + bde[a+1:len(bde)+1])
-# print(bdehasil)
-# jfk = ['000', '001', '010']
-#
-# for i in range (len(bde)):
-#     print(bde[i] + jfk[i])
-#     print(bde[i][0:len(bde)])
-
-# abc = list(range(1, 6))
-#
-# for i in range (len(abc)):
 #     for j in range (i+1, len(abc)):
 #         print(abc[i], " dengan ", abc[j])
